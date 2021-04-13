@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Dan C's AI/ML Blog
+description: Hello, I am Daniel Cleaton - this blog is for documenting my own research into deep learning (and later, into more general machine learning and dev diaries for the cool little projects I hope to make with all this knowledge).
+github_username: ObSDan
 
 # Email and twitter are optional:
 email:
-twitter_username:
+twitter_username: @DanielCleaton
 
 # Set this to true to get LaTeX math equation support
 use_math:
