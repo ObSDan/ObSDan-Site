@@ -22,7 +22,7 @@ If you're interested in deep learning and haven't tried Fast.ai, then you can fi
 
 ## GameMaker Studio 2
 
-YoYo are the developers of the popular [GameMaker Studio](www.yoyogames.com/get) software with which you can create your own games and get them onto stores so people can play/buy them. Feel free to check that out if you're into making your own games or fancy giving it a go.
+YoYo are the developers of the popular [GameMaker Studio](https://www.yoyogames.com/get) software with which you can create your own games and get them onto stores so people can play/buy them. Feel free to check that out if you're into making your own games or fancy giving it a go.
 
 *Note that even though I say about GameMaker in my introduction to give context about who I am, this blog is not intended to be a GameMaker blog or anything to do with my day job, so please don't follow this blog or contact me here if you're looking for GMS2 stuff - although, I may from time-to-time post the odd snippet or dev diary for something game-related I am working on.*
 
